@@ -52,7 +52,7 @@ NOTE :- The Name Is The Key Mentioned Above In The How It Works Session. You Hav
 ```
 - Provide That With A Single Or Multiple Audio Clips (As We Can Play Audio Randomly From The Array).
 
-![Image](https://github.com/mohitsethi32/AudioManager/blob/master/Documentation/AudioManager.png)
+![Image](https://github.com/MohitSethi99/AudioManager/blob/master/Documentation/AudioManager.PNG)
 
 ## Play Music With Code
 
