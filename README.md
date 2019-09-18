@@ -58,19 +58,19 @@ NOTE :- The Name Is The Key Mentioned Above In The How It Works Session. You Hav
 
 In The Function Where You Want To Play/Switch The Music Track Add This Line Of Code.
 
-```AudioManager.Instance.PlayMusic ("KEY Of That Music You Want To Play");```
+```AudioManager.instance.PlayMusic ("KEY Of That Music You Want To Play");```
 
 In The Example Case its
 
-```AudioManager.Instance.PlayMusic ("Music01");```
+```AudioManager.instance.PlayMusic ("Music01");```
 
 ## Play SFX With Code
 
 In The Function Where You Want To Play The Sound/SFX Add This Line Of Code.
 
-```AudioManager.PlaySound (""KEY Of That Sound You Want To Play"");```
+```AudioManager.instance.PlaySound ("KEY Of That Sound You Want To Play);```
 
 In The Example Case its
 
-```AudioManager.PlaySound ("Bounce");```
+```AudioManager.instance.PlaySound ("Bounce");```
 

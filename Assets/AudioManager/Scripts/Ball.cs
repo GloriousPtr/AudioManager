@@ -5,6 +5,6 @@ public class Ball : MonoBehaviour
 {
 	void OnCollisionEnter2D (Collision2D coll)
 	{
-		AudioManager.PlaySound ("Bounce");                            // Play A Single Sound with key "Bounce"
+		AudioManager.instance.PlaySound ("Bounce");                            // Play A Single Sound with key "Bounce"
 	}
 }

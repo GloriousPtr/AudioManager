@@ -13,4 +13,6 @@ public static class Utils
         }
         return default(T);
     }
+
+    public static int BoolToBinary(bool b) => b ? 1 : 0;
 }
